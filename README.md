@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi there! I'm a passionate developer focused on building smart, efficient, and impactful solutions. I enjoy working on real-world projects, especially those involving automation, artificial intelligence, and backend development.<br><br>💡 I love turning ideas into code and solving problems with technology<br>🧠 Currently deepening my skills in JavaScript, Node.js, and TypeScript<br>🛠️ I enjoy experimenting with low-code tools and building micro-SaaS products<br>🌍 I'm always curious about productivity, stoicism, and how technology shapes our lives<br>🤝 I'm open to collaborations, projects, and meaningful tech conversations!
+
 [My Portfolio](https://lucaribeiro.site/)
 
 
