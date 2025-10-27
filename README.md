@@ -9,7 +9,7 @@
 
 ### 🧠 Sobre mim
 
-- 💻 Trabalho com **Node.js, TypeScript, React, Next.js, Python, FastAPI e Docker**
+- 💻 Trabalho com **Node.js, TypeScript, React, Next.js, Java, Python, FastAPI e Docker**
 - 📚 Sempre aprendendo algo novo e explorando novas tecnologias
 - 🌱 Atualmente estudando **IA, automações e arquitetura de software**
 - 🎯 Buscando desafios que me tirem da zona de conforto
